@@ -144,3 +144,4 @@ Knit, *commit, and push your changes to GitHub with an appropriate commit messag
 
 Now go back through your write up to make sure you've answered all questions and all of your R chunks are properly labelled.
 Once you decide as a team that you're done with this lab, all members of the team should pull the changes and knit the R Markdown document to confirm that they can reproduce the report.
+Done H.W 2
